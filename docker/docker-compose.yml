@@ -1,0 +1,13 @@
+version: "3.6"
+services:
+  gengine-ratelimiter:
+    image: $APP_IMAGE:$PROJECT_VERSION
+    env_file:
+      - ${ENVFILE}
+    networks:
+      - genginenet
+    ports:
+      - "8009:8002"
+networks:
+  scpnet:
+    driver: bridge

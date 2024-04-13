@@ -1,0 +1,8 @@
+                             ,--.                                     ,--.         ,--.,--.          ,--.  ,--.
+ ,---.  ,---. ,--,--,  ,---. `--',--,--, ,---. ,-----.,--.--.,--,--.,-'  '-. ,---. |  |`--',--,--,--.`--',-'  '-. ,---. ,--.--.
+| .-. || .-. :|      \| .-. |,--.|      \ .-. :'-----'|  .--' ,-.  |'-.  .-'| .-. :|  |,--.|        |,--.'-.  .-'| .-. :|  .--'
+' '-' '\   --.|  ||  |' '-' '|  ||  ||  \   --.       |  |  \ '-'  |  |  |  \   --.|  ||  ||  |  |  ||  |  |  |  \   --.|  |
+.`-  /  `----'`--''--'.`-  / `--'`--''--'`----'       `--'   `--`--'  `--'   `----'`--'`--'`--`--`--'`--'  `--'   `----'`--'
+`---'                 `---'
+ :: ${AnsiColor.BRIGHT_MAGENTA}Spring Boot${AnsiColor.DEFAULT} ::        ${AnsiColor.GREEN}${spring-boot.formatted-version}${AnsiColor.DEFAULT}
+ :: ${AnsiColor.BRIGHT_MAGENTA}${application.title}${AnsiColor.DEFAULT} ::        ${AnsiColor.GREEN}${application.formatted-version}${AnsiColor.DEFAULT}
